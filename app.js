@@ -2,7 +2,7 @@
 // KONFIGURASI NOMOR WHATSAPP PENJUAL
 // Ganti nomor di bawah ini dengan nomor WhatsApp penjual (format 628xxx)
 // =========================================================================
-const DEFAULT_SELLER_WA = "6281234567890";
+const DEFAULT_SELLER_WA = "6283151667585";
 
 const PRODUCTS = {
   original: {
